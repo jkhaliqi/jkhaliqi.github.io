@@ -5,11 +5,10 @@ Jacob Khaliqi's User Page
 My favorite language is java
 
 ### Welcome to Jacob's homepage! <br>
-
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
-**This is a picture of some pixel art**
-![picture of some pixel art](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Pixel%20Art.png)
 
+**This is a picture of some pixel art**
+![pixel art](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Pixel%20Art.png) <br>
 
 [Click if you want to go to Next Section](#next-section)
 
@@ -24,7 +23,6 @@ My favorite language is java
 ***All this text is important*** <br>
 
 Favorite quote coming from Eric Thomas:
-
 > When You Want To Succeed As Bad As You Want To Breathe, Then You Will Be Successful
 
 Use `git status` to list all new or modified files that haven't yet been committed.
@@ -40,7 +38,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 # Next Section
 
-[Click for the relative link to the picture](IMG_3591.PNG) <br>
+[Click for the relative link to the pixel art](Pixel Art.png) <br>
 
 List of Hobbies:
 - Playing basketball
