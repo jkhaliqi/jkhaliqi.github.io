@@ -38,7 +38,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 # Next Section
 
-[Click for the relative link to the pixel art](Pixel Art.png) <br>
+[Click for the relative link to the pixel art](Pixel Art.png)
 
 List of Hobbies:
 - Playing basketball
