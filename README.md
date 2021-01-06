@@ -60,7 +60,7 @@ Nested Lists
  Task Lists to complete:    
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] Open a pull request <br>
 :fire: :fire: :fire:
 
 
