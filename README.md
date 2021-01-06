@@ -4,9 +4,10 @@ Jacob Khaliqi's User Page
 
 My favorite language is java
 
-#Welcome to Jacob's homepage! <br>
+### Welcome to Jacob's homepage! <br>
 
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
+**This is a picture of some pixel art**
 ![picture of some pixel art](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Pixel%20Art.png)
 
 
