@@ -9,7 +9,7 @@ My favorite language is java
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
 
 
-[Click if you want to go to heading 2](#next-section)
+[Click if you want to go to Next Section](#next-section)
 
 # Heading
 ## This heading should be smaller
