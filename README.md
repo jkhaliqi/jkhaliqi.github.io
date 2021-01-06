@@ -33,7 +33,7 @@ git commit
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-#heading-2
+# heading-2
 
 
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Screen%20Shot%202021-01-05%20at%204.51.53%20PM.png)
