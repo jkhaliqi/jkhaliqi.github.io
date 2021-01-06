@@ -2,9 +2,10 @@
 
 Jacob Khaliqi's User Page
 
-Favorite language is java
+My favorite language is java
 
-title: Welcome to Jacob's homepage!
+#Welcome to Jacob's homepage!
+
 
 [Click if you want to go to heading 2](#heading-2)
 
