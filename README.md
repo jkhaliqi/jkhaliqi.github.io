@@ -7,6 +7,7 @@ My favorite language is java
 #Welcome to Jacob's homepage! <br>
 
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
+![picture of some pixel art](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Pixel%20Art.png)
 
 
 [Click if you want to go to Next Section](#next-section)
