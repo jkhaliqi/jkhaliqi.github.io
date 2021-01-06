@@ -13,7 +13,7 @@ My favorite language is java
 
 # Heading
 ## This heading should be smaller
-##### this is small
+##### this heading is even smaller
 
 **This is bold text** <br>
 *This text is italicized* <br>
@@ -40,18 +40,22 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Click for the relative link to the picture](IMG_3591.PNG) <br>
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+List of Hobbies:
+- Playing basketball
+- Playing volleyball
+- Playing video games
+- Hanging out with friends
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+Favorite athletes:
+1. Lebron James
+2. Cristiano Ronaldo
+3. Muhammad Ali
 
 1. First list item
    - First nested list item
      - Second nested list item
      
+ Task Lists to complete:    
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
