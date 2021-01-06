@@ -9,7 +9,7 @@ My favorite language is java
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
 
 
-[Click if you want to go to heading 2](#heading-2)
+[Click if you want to go to heading 2](#next-section)
 
 # Heading
 ## This heading should be smaller
@@ -21,9 +21,9 @@ My favorite language is java
 **This texts is *Extremely* important** <br>
 ***All this text is important*** <br>
 
-In the words of Abraham Lincoln:
+Favorite quote coming from Eric Thomas:
 
-> Pardon my French
+> When You Want To Succeed As Bad As You Want To Breathe, Then You Will Be Successful
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
@@ -36,7 +36,7 @@ git commit
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-# heading 2
+# Next Section
 
 [Click for the relative link to the picture](IMG_3591.PNG) <br>
 
