@@ -5,7 +5,7 @@ Jacob Khaliqi's User Page
 My favorite language is java
 
 #Welcome to Jacob's homepage!
-[picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG)
+![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG)
 
 
 [Click if you want to go to heading 2](#heading-2)
@@ -15,10 +15,10 @@ My favorite language is java
 ##### this is small
 
 **This is bold text** <br>
-*This text is italicized* 
-~~This text will get deleted~~
-**This texts is *Extremely* important**
-***All this text is important***
+*This text is italicized* <br>
+~~This text will get deleted~~ <br>
+**This texts is *Extremely* important** <br>
+***All this text is important*** <br>
 
 In the words of Abraham Lincoln:
 
@@ -36,10 +36,6 @@ git commit
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 # heading 2
-
-
-![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Screen%20Shot%202021-01-05%20at%204.51.53%20PM.png)
-
 
 
 
