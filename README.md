@@ -38,7 +38,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 # Next Section
 
-[Click for the relative link to the pixel art](jkhaliqi.github.io/Pixel Art.png)
+[Click for the relative link to the pixel art](README.md)
 
 List of Hobbies:
 - Playing basketball
