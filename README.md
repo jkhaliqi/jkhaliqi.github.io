@@ -5,7 +5,8 @@ Jacob Khaliqi's User Page
 My favorite language is java
 
 ### Welcome to Jacob's homepage! <br>
-![picture](picture.jpg)<br>
+![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/picture.png)
+<br>
 
 
 **This is a picture of some pixel art**<br>
