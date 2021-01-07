@@ -5,6 +5,7 @@ Jacob Khaliqi's User Page
 My favorite language is java
 
 ### Welcome to Jacob's homepage! <br>
+![picture](IMG_3591.PNG)<br>
 
 
 **This is a picture of some pixel art**<br>
