@@ -8,7 +8,7 @@ My favorite language is java
 ![picture](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/IMG_3591.PNG) <br>
 
 **This is a picture of some pixel art**<br>
-![pixel art](https://github.com/jkhaliqi/jkhaliqi.github.io/blob/main/Pixel_Art.png) <br>
+![pixel art](Pixel_Art.png) <br>
 
 [Click if you want to go to Next Section](#next-section)
 
