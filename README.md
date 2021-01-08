@@ -4,7 +4,6 @@ Jacob Khaliqi's User Page
 
 My favorite language is java
 
-### Welcome to Jacob's homepage! <br>
 ![picture](picture.png) <br>
 
 
