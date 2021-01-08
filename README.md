@@ -39,7 +39,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 # Next Section
 
-[Click here for the relative link to the Pixel Art](./Pixel_Art.png)
+[Click here for the relative link to the Pixel Art](Pixel_Art.png)
 
 List of Hobbies:
 - Playing basketball
