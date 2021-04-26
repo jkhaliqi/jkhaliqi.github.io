@@ -6,10 +6,6 @@ My favorite language is java
 
 ![picture](picture.png) <br>
 
-
-**This is a picture of some pixel art** <br>
-![pixel art](Pixel_Art.png) <br>
-
 [Click if you want to go to Next Section](#next-section)
 
 # Heading
