@@ -4,7 +4,7 @@ Jacob Khaliqi's User Page
 
 My favorite language is java
 
-![picture](picture.png) <br>
+![picture](picture.png=200px) <br>
 
 [Click if you want to go to Next Section](#next-section)
 
