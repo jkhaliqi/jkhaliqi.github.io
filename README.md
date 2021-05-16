@@ -60,10 +60,6 @@ Nested Lists
 :fire: :fire: :fire:
 Color scheme to use : Dark blue, Neon blue, neon pink, dark purple
 
-<span style="color:red">some red text</span>
-<span style="color:neon pink">some *blue* text</span>
-<span style="color:neon blue">some *blue* text</span>
-<span style="color:Dark purple">some *blue* text</span>
 
 
 
