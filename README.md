@@ -1,7 +1,7 @@
 # About Me
 Hello, I am currently a student at Univeristy of California, San Diego. I am expected to graduate in winter quarter which will be around March of 2022 with my bachelors of science in computer science!
 
-![picture](picture.png)
+<img src="picture.png" alt="selfie" width="200"/>
 
 # Technical Skills
 - Java
