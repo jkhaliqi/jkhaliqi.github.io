@@ -30,8 +30,8 @@ Hello, I am currently a student at Univeristy of California, San Diego. I am exp
 I enjoy playing sports like basketball and weightlifting in my free time. I have also tried getting into yoga because of the many health and mind benefits. Yoga can also help me stay healthy and play sports for a longer time.  
 
 # Links
-[Resume](Khaliqi__Jacob.pdf) \
-[Github](https://github.com/jkhaliqi)
+- [Resume](Khaliqi__Jacob.pdf) \
+- [Github](https://github.com/jkhaliqi)
 
 
 
