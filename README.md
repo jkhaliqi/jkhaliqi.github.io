@@ -27,7 +27,7 @@ Hello, I am currently a student at Univeristy of California, San Diego. I am exp
   - Uploaded videos of myself walking through code in Snap! and other block based languages to help children get a better understanding of code and how they can create cool projects in these block based languages. Key fundamentals of coding discussed like conditionals and loops.
 
 # Extra Cirriculars
-I enjoy playing sports like basketball and weightlifting in my free time. I have also tried getting into yoga because of the many health and mind benefits. Yoga can also help me stay healthy and play sports for a longer time.  
+I enjoy playing sports like basketball and weightlifting in my free time. I also like hanging out with my friends and going out to eat. I have also tried getting into yoga because it seems very relaxing.  
 
 # Links
 - [Resume](Khaliqi__Jacob.pdf)
