@@ -26,7 +26,7 @@ Hello, I am currently a student at Univeristy of California, San Diego. I am exp
 - [Teaching Website](https://jkhaliqi.github.io/Teaching-Portfolio-Web-Resource/)
   - Uploaded videos of myself walking through code in Snap! and other block based languages to help children get a better understanding of code and how they can create cool projects in these block based languages. Key fundamentals of coding discussed like conditionals and loops.
 
-# Extra Cirriculars
+# Extra Curriculars
 I enjoy playing sports like basketball and weightlifting in my free time. I also like hanging out with my friends and going out to eat. I have also tried getting into yoga because it seems very relaxing.  
 
 # Links
