@@ -30,7 +30,7 @@ Hello, I am currently a student at Univeristy of California, San Diego. I am exp
 I enjoy playing sports like basketball and weightlifting in my free time. I also like hanging out with my friends and going out to eat. I have also tried getting into yoga because it seems very relaxing.  
 
 # Links
-- [Resume](Khaliqi__Jacob.pdf)
+- [Resume](Khaliqi_Jacob.pdf)
 - [Github](https://github.com/jkhaliqi)
 
 
